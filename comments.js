@@ -1,4 +1,4 @@
-// create web server 
+// Create web server 
 // using node.js and express.js
 // and handlebars.js
 // to display comments from a json file
